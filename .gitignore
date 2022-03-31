@@ -1,0 +1,6 @@
+# python env file
+env/
+
+# environment variables
+env.*
+.env
